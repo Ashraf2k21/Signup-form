@@ -1,0 +1,18 @@
+
+.date-label {
+  position: absolute;
+  transform: translate(10px, -20px);
+  background: white;
+  padding: 5px 5px;
+  color: #6c757d;
+  
+}
+
+.custom-btn {
+  padding: 8px 16px; 
+  color: rgb(51, 3, 124);
+  border: none;
+  cursor: pointer;
+  font-weight: bolder;
+}
+
